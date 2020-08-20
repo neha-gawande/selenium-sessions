@@ -5,9 +5,9 @@
 	verbose="1">
 	<listeners>
 
-		<listener
+		<!--<listener
 			class-name="com.qa.hubspot.testlisteners.TesultsListener" />
-		<!--> <listener class-name ="com.qa.hubspot.testlisteners.pdfListener" 
+		> <listener class-name ="com.qa.hubspot.testlisteners.pdfListener" 
 			/> -->
 
 
